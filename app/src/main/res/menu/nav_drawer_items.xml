@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group>
+        <item
+            android:id="@+id/account_nav_menu_id"
+            android:icon="@drawable/account"
+            android:title="Account"
+            app:showAsAction="always">
+
+        </item>
+        <item
+            android:id="@+id/profile_nav_menu_id"
+            android:title="Profile"
+            app:showAsAction="always"
+            android:icon="@drawable/profileicon"
+            >
+
+        </item>
+        <item
+            android:id="@+id/Settings_nav_menu_id"
+            android:icon="@drawable/settting"
+            android:title="Settings"
+            app:showAsAction="always">
+
+        </item>
+        <item
+            android:id="@+id/Share_nav_menu_id"
+            android:icon="@drawable/share"
+            android:title="Share"
+            app:showAsAction="always">
+
+        </item>
+    </group>
+
+</menu>

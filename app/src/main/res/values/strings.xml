@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoboRivs</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Users Reviews</string>
+    <string name="tab_text_Phones">Phones</string>
+    <string name="tab_text_new">Upcoming Phone</string>
+    <string name="tab_text_best">Most Rated</string>
+    <string name="tab_text_full">All Phones</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="login"><u>I already have an account, login</u></string>
+    <string name="register_text"><u>Register</u></string>
+    <string name="login_text"><u>Login</u></string>
+
+    <string name="authtoken">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Imtvd3NoaWsubG0xNEBnbWFpbC5jb20iLCJ1c2VyaWQiOiI1ZTY2MzRlZWEwNTVkNzA4NjBlZGJmNTUiLCJ1c2VybmFtZSI6Im1ha3UiLCJQaG9uZSI6IjAxMjM5MzEyMTI2IiwiaWF0IjoxNTgzODI5ODcyLCJleHAiOjE1ODM4NDc4NzJ9.jQmlOYiGMWNjrox_WMd353D54LHKY6mVT6scBM7-Bos</string>
+
+</resources>
